@@ -1,0 +1,11 @@
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\bin\Debug\AppCalculoDeMedia.exe.config
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\bin\Debug\AppCalculoDeMedia.exe
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\bin\Debug\AppCalculoDeMedia.pdb
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\obj\Debug\AppCalculoDeMedia.csproj.AssemblyReference.cache
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\obj\Debug\AppCalculoDeMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\obj\Debug\AppCalculoDeMedia.Properties.Resources.resources
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\obj\Debug\AppCalculoDeMedia.csproj.GenerateResource.cache
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\obj\Debug\AppCalculoDeMedia.csproj.CoreCompileInputs.cache
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\obj\Debug\AppCalculoDeMedia.exe
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\obj\Debug\AppCalculoDeMedia.pdb
+C:\Users\edson.rbispo\source\repos\AppCalculoDeMedia\AppCalculoDeMedia\obj\Debug\AppCalculoDeMedia.FrmCalculoMedia.resources
