@@ -12,7 +12,7 @@ namespace CalculodeMedia
         static void Main(string[] args)
         {
             double nota1;-
-            double nota2 = 10
+            double nota2 = 10;
             double media;
 
             nota1 = Convert.ToDouble(Console.ReadLine()); 
