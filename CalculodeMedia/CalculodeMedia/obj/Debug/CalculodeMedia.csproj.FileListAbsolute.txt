@@ -1,0 +1,8 @@
+C:\Users\edson.rbispo\source\repos\CalculodeMedia\CalculodeMedia\bin\Debug\CalculodeMedia.exe.config
+C:\Users\edson.rbispo\source\repos\CalculodeMedia\CalculodeMedia\bin\Debug\CalculodeMedia.exe
+C:\Users\edson.rbispo\source\repos\CalculodeMedia\CalculodeMedia\bin\Debug\CalculodeMedia.pdb
+C:\Users\edson.rbispo\source\repos\CalculodeMedia\CalculodeMedia\obj\Debug\CalculodeMedia.csproj.AssemblyReference.cache
+C:\Users\edson.rbispo\source\repos\CalculodeMedia\CalculodeMedia\obj\Debug\CalculodeMedia.csproj.SuggestedBindingRedirects.cache
+C:\Users\edson.rbispo\source\repos\CalculodeMedia\CalculodeMedia\obj\Debug\CalculodeMedia.csproj.CoreCompileInputs.cache
+C:\Users\edson.rbispo\source\repos\CalculodeMedia\CalculodeMedia\obj\Debug\CalculodeMedia.exe
+C:\Users\edson.rbispo\source\repos\CalculodeMedia\CalculodeMedia\obj\Debug\CalculodeMedia.pdb
